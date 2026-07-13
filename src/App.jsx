@@ -162,7 +162,7 @@ export default function App() {
               </div>
 
               {/* Progress Bar Loader Strip */}
-              <div className="grow mx-4 h-1.5 bg-mono-light-200 dark:bg-mono-dark-200 rounded-full overflow-hidden max-w-[35]">
+              <div className="grow mx-4 h-1.5 bg-mono-light-200 dark:bg-mono-dark-200 rounded-full overflow-hidden max-w-[140px]">
                 <div 
                   className="h-full bg-mono-light-900 dark:bg-mono-dark-900 transition-all duration-350 ease-out"
                   style={{ width: `${((currentIdx + 1) / questionsData.length) * 100}%` }}
