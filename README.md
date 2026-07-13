@@ -32,7 +32,7 @@ quiz-app-rm/
 └── README.md                  # Project documentation
 ```
 
-## File Structure
+## Setup & Preview
 To pull down the project and run the assessment platform locally:
 - Clone the repository and enter the workspace root:
 ```bash
