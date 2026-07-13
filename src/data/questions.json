@@ -1,0 +1,122 @@
+[
+    {
+    "id": 1,
+    "question": "Which programming language is known as the backbone of web development behavior?",
+    "options": ["HTML", "CSS", "JavaScript", "Python"],
+    "answer": "JavaScript"
+    },
+    {
+    "id": 2,
+    "question": "What does CSS stand for?",
+    "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+    "answer": "Cascading Style Sheets"
+    },
+    {
+    "id": 3,
+    "question": "In React, what hook is used to manage local state within a functional component?",
+    "options": ["useEffect", "useContext", "useState", "useReducer"],
+    "answer": "useState"
+    },
+    {
+    "id": 4,
+    "question": "Which HTTP method is typically used to update an existing resource completely?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "PUT"
+    },
+    {
+    "id": 5,
+    "question": "What is the default port used by a Vite development server if it is not occupied?",
+    "options": ["3000", "8080", "5173", "4200"],
+    "answer": "5173"
+    },
+    {
+    "id": 6,
+    "question": "Which SQL statement is used to extract data from a database?",
+    "options": ["GET", "OPEN", "EXTRACT", "SELECT"],
+    "answer": "SELECT"
+    },
+    {
+    "id": 7,
+    "question": "What Git command is used to save changes to the local repository history?",
+    "options": ["git push", "git commit", "git save", "git add"],
+    "answer": "git commit"
+    },
+    {
+    "id": 8,
+    "question": "Which data structure operates on a Last-In, First-Out (LIFO) basis?",
+    "options": ["Queue", "Stack", "Array", "Linked List"],
+    "answer": "Stack"
+    },
+    {
+    "id": 9,
+    "question": "What is the primary purpose of a database primary key?",
+    "options": ["To encrypt the row data", "To uniquely identify each record", "To link to an external API", "To sort records alphabetically"],
+    "answer": "To uniquely identify each record"
+    },
+    {
+    "id": 10,
+    "question": "Which HTML5 element is used to display scalable vector graphics directly inside the page?",
+    "options": ["<canvas>", "<svg>", "<image>", "<vector>"],
+    "answer": "<svg>"
+    },
+    {
+    "id": 11,
+    "question": "What does JSON stand for?",
+    "options": ["JavaScript Object Notation", "Java Standard Object Network", "JavaScript Oriented Node", "Junction Style Object Notation"],
+    "answer": "JavaScript Object Notation"
+    },
+    {
+    "id": 12,
+    "question": "In CSS flexbox, which property controls alignment along the main axis?",
+    "options": ["align-items", "justify-content", "align-content", "flex-direction"],
+    "answer": "justify-content"
+    },
+    {
+    "id": 13,
+    "question": "What is the purpose of the 'alt' attribute on an HTML image tag?",
+    "options": ["To define a tooltip text", "To provide an alternate description for accessibility", "To specify a high-resolution source", "To apply modern filtering styles"],
+    "answer": "To provide an alternate description for accessibility"
+    },
+    {
+    "id": 14,
+    "question": "Which command is used to install project dependencies using npm?",
+    "options": ["npm start", "npm build", "npm install", "npm run"],
+    "answer": "npm install"
+    },
+    {
+    "id": 15,
+    "question": "What type of function runs immediately after the DOM renders in a React component using useEffect?",
+    "options": ["Side Effect", "Callback Event", "State Reducer", "Initial Instance"],
+    "answer": "Side Effect"
+    },
+    {
+    "id": 16,
+    "question": "Which symbol represents the universal selector in CSS?",
+    "options": ["#", ".", "*", "&"],
+    "answer": "*"
+    },
+    {
+    "id": 17,
+    "question": "What does API stand for?",
+    "options": ["Automated Processing Interface", "Application Programming Interface", "Application Protocol Integration", "Array Processing Instance"],
+    "answer": "Application Programming Interface"
+    },
+    {
+    "id": 18,
+    "question": "Which of the following is NOT a valid JavaScript primitive data type?",
+    "options": ["String", "Boolean", "Object", "Number"],
+    "answer": "Object"
+    },
+    {
+    "id": 19,
+    "question": "What does the 'npm' package manager stand for?",
+    "options": ["Node Package Manager", "New Project Module", "Network Protocol Method", "Node Parameter Matrix"],
+    "answer": "Node Package Manager"
+    },
+    {
+    "id": 20,
+    "question": "In UI/UX design, what does 'AAA Pass' indicate regarding a color contrast ratio?",
+    "options": ["Highest web accessibility standard met", "Fast rendering speed achieved", "Premium commercial font license", "Vector scaling accuracy optimization"],
+    "answer": "Highest web accessibility standard met"
+    }
+]
